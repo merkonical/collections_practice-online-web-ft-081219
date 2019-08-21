@@ -36,8 +36,14 @@ def find_a(things)
   end 
 end 
   
-  
-  
+def sum_array(array)
+  a = 0 
+  array.inject do |b|
+    a += b 
+  end
+  sum 
+end 
+
   
   
   
