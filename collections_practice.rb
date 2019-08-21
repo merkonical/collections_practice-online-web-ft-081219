@@ -22,4 +22,6 @@ end
 
 def reverse_array(integers)
   integers.sort do |reversed|
-    
+    reversed.reverse 
+  end
+end 
