@@ -20,4 +20,5 @@ def swap_elements(the_switch)
   end 
 end
 
-def reverse
+def reverse_array(integers)
+  
