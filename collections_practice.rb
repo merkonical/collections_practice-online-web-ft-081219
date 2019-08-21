@@ -18,4 +18,6 @@ def swap_elements(the_switch)
   the_switch.sort do |a,b|
     a[1] <=> b[2]
   end 
-end 
+end
+
+def reverse
