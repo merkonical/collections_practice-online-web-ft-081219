@@ -29,3 +29,23 @@ def kesha_maker(names)
     name[2] = "$"
   end 
 end
+
+def find_a(things)
+  things.find_all do |thing|
+    thing[0] == "a"
+  end 
+end 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
